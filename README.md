@@ -10,7 +10,7 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 
 - Follow the ideas in the survey paper that interest you and dig deeper
 
-[LLM Survey 2024](https://arxiv.org/pdf/2402.06196v2)  
+[LLM Survey](https://arxiv.org/pdf/2402.06196v2) \- 2024  
 [Agent Survey](https://arxiv.org/pdf/2308.11432) \- 2023  
 [Prompt Engineering Survey](https://arxiv.org/pdf/2406.06608) \- 2024
 
