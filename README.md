@@ -58,6 +58,7 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 [Why You’re Not Too Old to Pivot Into AI](https://www.latent.space/p/not-old) (motivation)
 
 **Helpful Websites:**  
+[History of Deep Learning](https://github.com/adam-maj/deep-learning?tab=readme-ov-file) \- summary timeline of deeplearning with major breakthroughs and key concepts  
 [Full Stack Deep Learning](https://fullstackdeeplearning.com/) \- courses for building AI products  
 [Prompting Guide](https://www.promptingguide.ai/) \- extensive list of prompting techniques and examples  
 [a16z AI Cannon](https://a16z.com/ai-canon/) \- similar list of resources, but longer (slightly dated)  
