@@ -30,7 +30,7 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 
 **Planning/Reasoning:**  
 [AlphaZero](https://arxiv.org/pdf/1712.01815)/[**MuZero**\*](https://arxiv.org/pdf/1911.08265) (RL without prior knowledge of game or rules) \- 2017/2019  
-[**CoT**\* (Chain of Thought)](https://arxiv.org/pdf/2201.11903)/[ToT (Tree of Thoughts)](https://arxiv.org/pdf/2305.10601)/[GoT (Graph of Thoughts)](https://arxiv.org/pdf/2308.09687) \- 2022/2023/2023  
+[**CoT**\* (Chain of Thought)](https://arxiv.org/pdf/2201.11903)/[ToT (Tree of Thoughts)](https://arxiv.org/pdf/2305.10601)/[GoT (Graph of Thoughts)](https://arxiv.org/pdf/2308.09687)/[Meta CoT](https://arxiv.org/pdf/2501.04682) \- 2022/2023/2023/2025  
 [ReACT](https://arxiv.org/pdf/2210.03629) (Generate reasoning traces and task-specific actions in interleaved manner) \- 2022  
 [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050) (Process \> Outcome) \- 2023  
 [**ARC-Prize**\*](https://arxiv.org/pdf/2412.04604) (Latest methods for solving ARC-AGI problems) \- 2024  
