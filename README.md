@@ -34,7 +34,8 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [ReACT](https://arxiv.org/pdf/2210.03629) (Generate reasoning traces and task-specific actions in interleaved manner) \- 2022  
 [Let’s Verify Step by Step](https://arxiv.org/pdf/2305.20050) (Process \> Outcome) \- 2023  
 [**ARC-Prize**\*](https://arxiv.org/pdf/2412.04604) (Latest methods for solving ARC-AGI problems) \- 2024  
-[Scaling Test-Time Compute](https://arxiv.org/pdf/2408.03314) (Relationship between inference-time and pre-training compute) \-  2024
+[Scaling Test-Time Compute](https://arxiv.org/pdf/2408.03314) (Relationship between inference-time and pre-training compute) \-  2024  
+[DeepSeek R1](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) (Building OSS o1-level reasoning model with pure RL, no SFT, no RM) \- 2025
 
 **Applications:**  
 [Toolformer](https://arxiv.org/pdf/2302.04761) (LLMs to use tools) \- 2023  
